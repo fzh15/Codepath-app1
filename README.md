@@ -22,3 +22,11 @@ Implemented features:
 
 
 [x] Interest Pannel
+
+
+
+
+
+Accessibilty Features:
+
+
