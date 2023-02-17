@@ -30,3 +30,9 @@ Implemented features:
 Accessibilty Features:
 
 
+[x] Alt text for images 
+
+
+[x] Color Sensitive Palette
+
+
