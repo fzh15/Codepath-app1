@@ -8,6 +8,8 @@ Hours Spent: 7 hours
 
 
 
+
+
 Implemented features: 
 
 
@@ -22,6 +24,10 @@ Implemented features:
 
 
 [x] Interest Pannel
+
+
+
+
 
 
 
