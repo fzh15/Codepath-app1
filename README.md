@@ -11,6 +11,10 @@ Hours Spent: 7 hours
 Implemented features: 
 
 
+
+[x] Website Responsiveness
+
+
 [x] Social Media handles & Email
 
 
